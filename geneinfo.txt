@@ -1,0 +1,173 @@
+Gene	Pathway	Collective
+K02689	Photosynthesis	PS1
+K02690	Photosynthesis	PS1
+K02691	Photosynthesis	PS1
+K02692	Photosynthesis	PS1
+K02693	Photosynthesis	PS1
+K02694	Photosynthesis	PS1
+K02695	Photosynthesis	PS1
+K02696	Photosynthesis	PS1
+K02697	Photosynthesis	PS1
+K02698	Photosynthesis	PS1
+K02699	Photosynthesis	PS1
+K02700	Photosynthesis	PS1
+K08905	Photosynthesis	PS1
+K14332	Photosynthesis	PS1
+K02703	Photosynthesis	PS2
+K02704	Photosynthesis	PS2
+K02705	Photosynthesis	PS2
+K02706	Photosynthesis	PS2
+K02707	Photosynthesis	PS2
+K02708	Photosynthesis	PS2
+K02709	Photosynthesis	PS2
+K02710	Photosynthesis	PS2
+K02711	Photosynthesis	PS2
+K02712	Photosynthesis	PS2
+K02713	Photosynthesis	PS2
+K02714	Photosynthesis	PS2
+K02715	Photosynthesis	PS2
+K02716	Photosynthesis	PS2
+K02717	Photosynthesis	PS2
+K02718	Photosynthesis	PS2
+K02719	Photosynthesis	PS2
+K02720	Photosynthesis	PS2
+K02721	Photosynthesis	PS2
+K02722	Photosynthesis	PS2
+K02723	Photosynthesis	PS2
+K02724	Photosynthesis	PS2
+K03541	Photosynthesis	PS2
+K03542	Photosynthesis	PS2
+K08901	Photosynthesis	PS2
+K08902	Photosynthesis	PS2
+K08903	Photosynthesis	PS2
+K08904	Photosynthesis	PS2
+K02634	Photosynthesis	B6F
+K02635	Photosynthesis	B6F
+K02636	Photosynthesis	B6F
+K02637	Photosynthesis	B6F
+K02640	Photosynthesis	B6F
+K03689	Photosynthesis	B6F
+K02642	Photosynthesis	B6F
+K02643	Photosynthesis	B6F
+K02638	Photosynthesis	PET
+K02639	Photosynthesis	PET
+K02641	Photosynthesis	PET
+K08906	Photosynthesis	PET
+K02092	Photosynthesis	APC
+K02093	Photosynthesis	APC
+K02094	Photosynthesis	APC
+K02095	Photosynthesis	APC
+K02096	Photosynthesis	APC
+K02097	Photosynthesis	APC
+K02284	Photosynthesis	Phycocyanin
+K02285	Photosynthesis	Phycocyanin
+K02286	Photosynthesis	Phycocyanin
+K02287	Photosynthesis	Phycocyanin
+K02288	Photosynthesis	Phycocyanin
+K02289	Photosynthesis	Phycocyanin
+K02290	Photosynthesis	Phycocyanin
+K02628	Photosynthesis	Phycoerythrocyanin
+K02629	Photosynthesis	Phycoerythrocyanin
+K02630	Photosynthesis	Phycoerythrocyanin
+K02631	Photosynthesis	Phycoerythrocyanin
+K02632	Photosynthesis	Phycoerythrocyanin
+K05376	Photosynthesis	Phycoerythrin
+K05377	Photosynthesis	Phycoerythrin
+K05378	Photosynthesis	Phycoerythrin
+K05379	Photosynthesis	Phycoerythrin
+K05380	Photosynthesis	Phycoerythrin
+K05381	Photosynthesis	Phycoerythrin
+K05382	Photosynthesis	Phycoerythrin
+K05383	Photosynthesis	Phycoerythrin
+K05384	Photosynthesis	Phycoerythrin
+K05385	Photosynthesis	Phycoerythrin
+K05386	Photosynthesis	Phycoerythrin
+K14084	(CH3)xNH-methanogenesis	trimethylamine corrinoid protein
+K00317	(CH3)xNH-methanogenesis	trimethylamine dehydrogenase
+K14083	(CH3)xNH-methanogenesis	trimethylamine---corrinoid protein Co-methyltransferase
+K14471	3-hydroxypropionate bicycle	(S)-malate CoA-transferase
+K14470	3-hydroxypropionate bicycle	2-methylfumaryl-CoA isomerase
+K07516	3-hydroxypropionate bicycle	3-hydroxyacyl-CoA dehydrogenase
+K14468	3-hydroxypropionate bicycle	3-hydroxypropionate dehydrogenase (NADP+)
+K14469	3-hydroxypropionate bicycle	3-hydroxypropionyl CoA complex
+K09709	3-hydroxypropionate bicycle	3-methylfumaryl-CoA hydratase
+K14465	3-hydroxypropionate bicycle	succinate semialdehyde reductase
+K01673	Carbonic anhydrases	carbonic anhydrase
+K01674	Carbonic anhydrases	carbonic anhydrase
+K01743	Carbonic anhydrases	carbonic anhydrase
+K03518	Carboxidotrophy	MoCu-CODH
+K03519	Carboxidotrophy	MoCu-CODH
+K03520	Carboxidotrophy	MoCu-CODH
+K01480	CH3OH-methanogenesis	methanol corrinoid protein
+K04480	CH3OH-methanogenesis	methanol---5-hydroxybenzimidazolylcobamide Co-methyltransferase
+K00320	CO2-methanogenesis	F420-dependent N5,N10-methenylTHMPT reductase
+K00200	CO2-methanogenesis	formylmethanofuran dehydrogenase
+K00201	CO2-methanogenesis	formylmethanofuran dehydrogenase
+K00202	CO2-methanogenesis	formylmethanofuran dehydrogenase
+K00203	CO2-methanogenesis	formylmethanofuran dehydrogenase
+K00205	CO2-methanogenesis	formylmethanofuran dehydrogenase
+K11260	CO2-methanogenesis	formylmethanofuran dehydrogenase
+K11261	CO2-methanogenesis	formylmethanofuran dehydrogenase
+K00672	CO2-methanogenesis	formylmethanofuran--THMPT-N-formyltransferase
+K00288	CO2-methanogenesis	methenylTHMPT cyclohydrolase
+K00319	CO2-methanogenesis	methylene-THMPT dehydrogenase
+K10713	CO2-methanogenesis	THMPT hydro-lyase
+K00577	CO2-methanogenesis	THMPT S-methyltransferase
+K00578	CO2-methanogenesis	THMPT S-methyltransferase
+K00579	CO2-methanogenesis	THMPT S-methyltransferase
+K00580	CO2-methanogenesis	THMPT S-methyltransferase
+K00581	CO2-methanogenesis	THMPT S-methyltransferase
+K00582	CO2-methanogenesis	THMPT S-methyltransferase
+K00583	CO2-methanogenesis	THMPT S-methyltransferase
+K00584	CO2-methanogenesis	THMPT S-methyltransferase
+K08097	CoB-CoM complex	Coenzyme M biosynthesis [comA-E]
+K05979	CoB-CoM complex	Coenzyme M biosynthesis [comA-E]
+K05884	CoB-CoM complex	Coenzyme M biosynthesis [comA-E]
+K13039	CoB-CoM complex	Coenzyme M biosynthesis [comA-E]
+K06034	CoB-CoM complex	Coenzyme M biosynthesis [comA-E]
+K14080	CoB-CoM complex	Coenzyme M methyltransferase
+K14082	CoB-CoM complex	Coenzyme M methyltransferase
+K03388	CoB-CoM complex	hetrodisulfide reductase
+K03389	CoB-CoM complex	hetrodisulfide reductase
+K03390	CoB-CoM complex	hetrodisulfide reductase
+KO8264	CoB-CoM complex	hetrodisulfide reductase
+K08265	CoB-CoM complex	hetrodisulfide reductase
+K00400	CoB-CoM complex	methyl coenzyme M reductase
+K00148	oxidation of methane	formydehyde dehydrogenase
+K08685	oxidation of methane	quinohemoprotein amine dehydrogenase
+K003396	oxidation of methane	S-(hydroxymethyl)glutathione synthase
+K01070	oxidation of methane	S-formylglutathione hydrolase
+K13492	Proton generating	5,10-methylene-THMPT hydrogenase
+K00440	Proton generating	coenzyme F420 hydrogenase
+K00441	Proton generating	coenzyme F420 hydrogenase
+K00442	Proton generating	coenzyme F420 hydrogenase
+K00443	Proton generating	coenzyme F420 hydrogenase
+K14086	Proton generating	ech hydrogenase
+K14087	Proton generating	ech hydrogenase
+K14088	Proton generating	ech hydrogenase
+K14089	Proton generating	ech hydrogenase
+K14090	Proton generating	ech hydrogenase
+K14091	Proton generating	ech hydrogenase
+K06862	Proton generating	energy converting hydrogenase
+K14126	Proton generating	F420 non-reducing hydrogenase
+K14127	Proton generating	F420 non-reducing hydrogenase
+K14128	Proton generating	F420 non-reducing hydrogenase
+K00532	Proton generating	ferredoxin hydrongenase
+K00533	Proton generating	ferredoxin hydrongenase
+K00534	Proton generating	ferredoxin hydrongenase
+K06441	Proton generating	ferredoxin hydrongenase
+K00336	Proton generating	H2:NAD+ oxidoreductase
+K018005	Proton generating	H2:NAD+ oxidoreductase
+K018006	Proton generating	H2:NAD+ oxidoreductase
+K018007	Proton generating	H2:NAD+ oxidoreductase
+K03313	Proton generating	NA+:H+ antiporters (nhaA-C)
+K03314	Proton generating	NA+:H+ antiporters (nhaA-C)
+K03315	Proton generating	NA+:H+ antiporters (nhaA-C)
+K00192	Wood-Ljungdahl (carbonyl)	CODH-ACS complex (acs/cdh)
+K00193	Wood-Ljungdahl (carbonyl)	CODH-ACS complex (acs/cdh)
+K00194	Wood-Ljungdahl (carbonyl)	CODH-ACS complex (acs/cdh)
+K00195	Wood-Ljungdahl (carbonyl)	CODH-ACS complex (acs/cdh)
+K00196	Wood-Ljungdahl (carbonyl)	CODH-ACS complex (acs/cdh)
+K00197	Wood-Ljungdahl (carbonyl)	CODH-ACS complex (acs/cdh)
+K00198	Wood-Ljungdahl (carbonyl)	CODH (acsAB)
+K14138	Wood-Ljungdahl (carbonyl)	CODH (acsAB)
